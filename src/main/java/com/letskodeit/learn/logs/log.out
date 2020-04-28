@@ -1,0 +1,109 @@
+2020-04-28 19:04:746 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:83 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:424 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> link text: Sign Up]
+2020-04-28 19:04:968 INFO  SignUpPage :52 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:391 INFO  SignUpPage :57 - enter emailram222@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:646 INFO  SignUpPage :62 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:896 INFO  SignUpPage :67 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:111 INFO  SignUpPage :72 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (92cad19f7b3e254d4aac67f6716978a0)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:154 INFO  SignUpPage :77 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:215 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:453 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> link text: Sign Up]
+2020-04-28 19:04:43 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:413 INFO  SignUpPage :62 - enter emailram222@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:658 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:871 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:86 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:15 INFO  SignUpPage :93 - click on sign up [[ChromeDriver: chrome on WINDOWS (b51f6cd36122c3cca3298979f1c121a0)] -> xpath: //input[@name='commit']]
+2020-04-28 19:04:75 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:824 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> link text: Sign Up]
+2020-04-28 19:04:836 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:446 INFO  SignUpPage :69 - enter emailramOMNrr@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:859 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:184 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:526 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (69f2b011fc6811cfd9483b9ed6a62812)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:551 INFO  SignUpPage :93 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:652 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:594 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> link text: Sign Up]
+2020-04-28 19:04:657 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:261 INFO  SignUpPage :69 - enter emailramT95rc@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:563 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:813 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:106 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (0b5603b9e8177f50081cd0cb1e3712ab)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:681 INFO  SignUpPage :93 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:447 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:653 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> link text: Sign Up]
+2020-04-28 19:04:371 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:953 INFO  SignUpPage :69 - enter emailramBd8nl@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:299 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:591 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:831 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (db57d73fea17bbff9c18d313b9a39095)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:524 INFO  SignUpPage :93 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:345 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:846 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> link text: Sign Up]
+2020-04-28 19:04:932 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:325 INFO  SignUpPage :69 - enter emailramHDNSb@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:547 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:771 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:974 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (4e87162be8c850b2b49740da51ada612)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:30 INFO  SignUpPage :93 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:219 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 19:04:552 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> link text: Sign Up]
+2020-04-28 19:04:142 INFO  SignUpPage :56 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //input[@id='user_name']]
+2020-04-28 19:04:576 INFO  SignUpPage :69 - enter emailram717U3@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //input[@id='user_email']]
+2020-04-28 19:04:829 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //input[@id='user_password']]
+2020-04-28 19:04:133 INFO  SignUpPage :81 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 19:04:358 INFO  SignUpPage :87 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 19:04:755 INFO  SignUpPage :93 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 19:04:929 INFO  SignInPage :39 - click on avatar image[[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> xpath: //img[@class='gravatar']]
+2020-04-28 20:04:641 INFO  SignInPage :44 - click on logoutProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log Out')]'
+2020-04-28 20:04:994 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (87ffb939f6c3ad6b58ae1a2cb8e49741)] -> link text: Sign Up]
+2020-04-28 20:04:200 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:735 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (91636ac5fe5ce41b40cbd80ddd3f3a33)] -> link text: Sign Up]
+2020-04-28 20:04:98 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (91636ac5fe5ce41b40cbd80ddd3f3a33)] -> link text: Login]
+2020-04-28 20:04:245 INFO  SignUpPage :62 - enter emailram111@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (91636ac5fe5ce41b40cbd80ddd3f3a33)] -> xpath: //input[@id='user_email']]
+2020-04-28 20:04:671 INFO  SignUpPage :75 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (91636ac5fe5ce41b40cbd80ddd3f3a33)] -> xpath: //input[@id='user_password']]
+2020-04-28 20:04:267 INFO  LoginPage :25 - clicking on Log in commit Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 20:04:70 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 20:04:14 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (98874c0365dc5bb1d41abd0083e7427e)] -> link text: Sign Up]
+2020-04-28 20:04:366 INFO  HomePage :26 -  Click on  practice link: [[ChromeDriver: chrome on WINDOWS (98874c0365dc5bb1d41abd0083e7427e)] -> link text: Practice]
+2020-04-28 20:04:177 INFO  PracticePage :26 -  Verify text Practice Page is displayed [[ChromeDriver: chrome on WINDOWS (98874c0365dc5bb1d41abd0083e7427e)] -> xpath: //div//h1[contains(text(),'Practice Page')]]
+2020-04-28 21:04:494 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:868 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (fd5162a4025b0b52cfde82eb41b73d38)] -> link text: Sign Up]
+2020-04-28 21:04:231 INFO  HomePage :26 -  Click on  practice link: [[ChromeDriver: chrome on WINDOWS (fd5162a4025b0b52cfde82eb41b73d38)] -> link text: Practice]
+2020-04-28 21:04:473 INFO  PracticePage :26 -  Verify text Practice Page is displayed [[ChromeDriver: chrome on WINDOWS (fd5162a4025b0b52cfde82eb41b73d38)] -> xpath: //div//h1[contains(text(),'Practice Page')]]
+2020-04-28 21:04:490 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:172 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (32fdd97f7d8da0eebfef485324c0f118)] -> link text: Sign Up]
+2020-04-28 21:04:524 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (32fdd97f7d8da0eebfef485324c0f118)] -> link text: Login]
+2020-04-28 21:04:654 INFO  SignUpPage :47 - enter emailram111@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (32fdd97f7d8da0eebfef485324c0f118)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:905 INFO  SignUpPage :60 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (32fdd97f7d8da0eebfef485324c0f118)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:243 INFO  LoginPage :25 - clicking on Log in commit Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 21:04:156 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:912 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> link text: Sign Up]
+2020-04-28 21:04:923 INFO  SignUpPage :41 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> xpath: //input[@id='user_name']]
+2020-04-28 21:04:351 INFO  SignUpPage :54 - enter emailramRXo74@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:579 INFO  SignUpPage :60 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:849 INFO  SignUpPage :66 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 21:04:49 INFO  SignUpPage :72 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (fecaaeb56463ad7b836a1d1439c07078)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 21:04:927 INFO  SignUpPage :78 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 21:04:543 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:586 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> link text: Sign Up]
+2020-04-28 21:04:683 INFO  SignUpPage :41 - enter full name Tony Wilsonto the filed[[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //input[@id='user_name']]
+2020-04-28 21:04:159 INFO  SignUpPage :54 - enter emailramSPzrc@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:411 INFO  SignUpPage :60 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:715 INFO  SignUpPage :66 - enter confirm passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-28 21:04:972 INFO  SignUpPage :72 - check to select for terms and condition [[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-28 21:04:637 INFO  SignUpPage :78 - click on sign up Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 21:04:864 INFO  SignInPage :36 - click on avatar image[[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> xpath: //img[@class='gravatar']]
+2020-04-28 21:04:496 INFO  SignInPage :41 - click on logoutProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log Out')]'
+2020-04-28 21:04:722 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (e0667f9ace7f209ea7d76c516e02f409)] -> link text: Sign Up]
+2020-04-28 21:04:621 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:568 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (f815078758f81c75ef934a8b04d35d61)] -> link text: Sign Up]
+2020-04-28 21:04:785 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (f815078758f81c75ef934a8b04d35d61)] -> link text: Login]
+2020-04-28 21:04:55 INFO  SignUpPage :47 - enter emailram111@gmail.com to the filed[[ChromeDriver: chrome on WINDOWS (f815078758f81c75ef934a8b04d35d61)] -> xpath: //input[@id='user_email']]
+2020-04-28 21:04:234 INFO  SignUpPage :60 - enter passwordabc123to the field[[ChromeDriver: chrome on WINDOWS (f815078758f81c75ef934a8b04d35d61)] -> xpath: //input[@id='user_password']]
+2020-04-28 21:04:31 INFO  LoginPage :22 - clicking on Log in commit Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-28 21:04:894 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-28 21:04:61 INFO  HomePage :38 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (cad015011b6e0c9e7286fb7cdacdc4c2)] -> link text: Sign Up]
+2020-04-28 21:04:409 INFO  HomePage :26 -  Click on  practice link: [[ChromeDriver: chrome on WINDOWS (cad015011b6e0c9e7286fb7cdacdc4c2)] -> link text: Practice]
+2020-04-28 21:04:185 INFO  PracticePage :26 -  Verify text Practice Page is displayed [[ChromeDriver: chrome on WINDOWS (cad015011b6e0c9e7286fb7cdacdc4c2)] -> xpath: //div//h1[contains(text(),'Practice Page')]]

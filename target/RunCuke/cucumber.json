@@ -1,0 +1,516 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16268753600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "User should sign up successfully",
+        "description": "",
+        "id": "sign-up-feature;user-should-sign-up-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 3594289200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 465041000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5001543700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter full name \"Tony Wilson\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tony Wilson",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterFullName(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 424246400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter random email address",
+            "match": {
+              "location": "MyStepdefs.iEnterRandomEmailAddress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 223648600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 266828100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter Confirm password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 26
+                }
+              ],
+              "location": "MyStepdefs.iEnterConfirmPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 198869500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I select check box for terms and conditions",
+            "match": {
+              "location": "MyStepdefs.iSelectCheckBoxForTermsAndConditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 24875011300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on sign up button",
+            "match": {
+              "location": "MyStepdefs.iClickOnSignUpButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 14,
+            "value": "#    Then    I sign up successfully"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 14591466400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "User should log out successfully",
+        "description": "",
+        "id": "sign-up-feature;user-should-log-out-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 889061000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 454278400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6093194900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enter full name \"Tony Wilson\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tony Wilson",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.iEnterFullName(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 473476500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter random email address",
+            "match": {
+              "location": "MyStepdefs.iEnterRandomEmailAddress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 249548000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 301163400,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I enter Confirm password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 26
+                }
+              ],
+              "location": "MyStepdefs.iEnterConfirmPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 256162600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I select check box for terms and conditions",
+            "match": {
+              "location": "MyStepdefs.iSelectCheckBoxForTermsAndConditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 24662490400,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I click on sign up button",
+            "match": {
+              "location": "MyStepdefs.iClickOnSignUpButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 222035500,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 24,
+                "value": "#    Then    I sign up successfully"
+              }
+            ],
+            "line": 25,
+            "name": "I click on gravatar",
+            "match": {
+              "location": "MyStepdefs.iClickOnGravatar()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22630586200,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I click on log out",
+            "match": {
+              "location": "MyStepdefs.iClickOnLogOut()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 222293900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Sign up feature",
+    "description": "\r\nAs a user I want to sign up and log out",
+    "id": "sign-up-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/letskodeit/learn/resources/featurefiles/letskodeit.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 19661011300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "I want to log in successfully",
+        "description": "",
+        "id": "log-in-and-practice;i-want-to-log-in-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 854612400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 287427000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 215284200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7267576800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter email \"ram111@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ram111@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 176959600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 26794916600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on log in Button",
+            "match": {
+              "location": "LoginSteps.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 11,
+            "value": "#    Then    I log in successfully"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 12866607800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "I want navigate to practice page successfully",
+        "description": "",
+        "id": "log-in-and-practice;i-want-navigate-to-practice-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1925962900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 302161100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on Home Page",
+            "match": {
+              "location": "MyStepdefs.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 345628100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on practice link",
+            "match": {
+              "location": "LoginSteps.iClickOnPracticeLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1774733700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I am on practice page",
+            "match": {
+              "location": "LoginSteps.iAmOnPracticePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Log in and Practice",
+    "description": "\r\nAs User should Log in and select course successfully",
+    "id": "log-in-and-practice",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/letskodeit/learn/resources/featurefiles/login.feature"
+  }
+]
